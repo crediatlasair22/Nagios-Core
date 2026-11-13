@@ -204,4 +204,4 @@ This repository serves as the official landing page for Nagios Core. The softwar
 **Get the most recent version of Nagios Core today!**
 
 ---
-**Last updated:** 2026-11-13 10:16:43 UTC
+**Last updated:** 2026-11-13 18:16:07 UTC
